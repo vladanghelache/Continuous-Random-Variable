@@ -1,0 +1,29 @@
+Package: varAC
+Title: Lucru cu variabile aleatoare continue
+Version: 0.0.0.9000
+Authors@R: c( 
+    person(given = "Vlad",
+           family = "Anghelache",
+           role = c("aut", "cre"),
+           email = "anghelache.vlad@yahoo.com"
+           ),
+    person(given = "Cristian",
+           family = "Ionescu",
+           role = "aut",
+           email = "first.last@example.com"
+           ),
+    person(given = "Andrei",
+           family = "Orzata",
+           role = "aut",
+           email = "first.last@example.com"
+           ))
+Description: Pachetul 'varAC' ofera diferite functii care permit lucrul cu variabilele aleatoare continue.
+    Prin intermediul acestora se pot face operatii asupra v. a. continue precum determinarea unei constante
+    de normalizare, verificarea densitatii de probabilitate, calcului mediei si al dispersiei, construirea 
+    densitatilor marginale si consitionate etc...
+License: `use_mit_license()`, `use_gpl3_license()` or friends to
+    pick a license
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1.9000
